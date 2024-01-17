@@ -1,7 +1,7 @@
 # Office Add-ins code samples
 
 Office Add-ins code samples are provided in this repo to help you learn, study, and build great Office Add-ins!
-
+JC
 ## Getting started
 
 The following samples show how to build the simplest Office Add-in with only a manifest, HTML web page, and a logo. They will help you understand the fundamental parts of an Office Add-in. For additional getting started information, see our [quick starts](https://learn.microsoft.com/office/dev/add-ins/quickstarts/excel-quickstart-jquery) and [tutorials](https://learn.microsoft.com/search/?terms=tutorial&scope=Office%20Add-ins).
